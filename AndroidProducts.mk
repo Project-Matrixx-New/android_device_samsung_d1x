@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_d1x.mk
+    $(LOCAL_DIR)/matrixx_d1x.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_d1x-eng \
-    lineage_d1x-user \
-    lineage_d1x-userdebug
+    matrixx_d1x-eng \
+    matrixx_d1x-user \
+    matrixx_d1x-userdebug
