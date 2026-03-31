@@ -37,7 +37,7 @@ TARGET_SCREEN_HEIGHT := 2280
 TARGET_SCREEN_WIDTH := 1080
 
 ## Inherit some common Lineage stuff
-$(call inherit-product, vendor/lineage/config/common_full_phone.mk)
+$(call inherit-product, vendor/matrixx/config/common_full_phone.mk)
 
 ## Device identifier, this must come after all inclusions
 PRODUCT_NAME := lineage_d1x
